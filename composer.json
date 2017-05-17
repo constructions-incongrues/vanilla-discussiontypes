@@ -1,6 +1,6 @@
 {
-    "name": "constructionsincongrues/vanilla-discussiontypes",
-    "description": "",
+    "name": "constructions-incongrues/vanilla-discussiontypes",
+    "description": "Vanilla Forums plugin to handle custom discussion types. This is the base plugin.",
     "minimum-stability": "stable",
     "license": "gplv3",
     "authors": [
