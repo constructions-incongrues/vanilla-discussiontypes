@@ -9,6 +9,9 @@
             "email": "contact@constructions-incongrues.net"
         }
     ],
+    "repositories": [
+        { "url": "https://github.com/vanilla/vanilla.git", "type": "git" }
+    ],
     "require": {
         "vanilla/vanilla": "dev-release/2.3"
     }
